@@ -1,0 +1,9 @@
+Package: clusterAnalysis
+Title: Implementation of cluster analysis (kmeans) by Karolina Grzanka
+Version: 0.0.0.9000
+Authors@R: c(person("Karolina", "Grzanka", email="kgrzanka@student.agh.edu.pl", role = c("aut", "cre")))
+Description: Performs cluster analysis by the kmeans method
+License: use_mit_license()
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.2
